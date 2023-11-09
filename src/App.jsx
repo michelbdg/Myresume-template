@@ -12,6 +12,8 @@ import Resume from './components/Resume.jsx'
 import Portfolio from './components/Portfolio.jsx'
 import Services from './components/Services.jsx'
 import Testimonial from './components/Testimonial.jsx'
+import Contact from './components/Contact.jsx'
+import Footer   from './components/Footer.jsx'
 
 function App() {
   
@@ -26,6 +28,8 @@ function App() {
       <Portfolio />
       <Services />
       <Testimonial />
+      <Contact />
+      <Footer />
     </>
   )
 }
