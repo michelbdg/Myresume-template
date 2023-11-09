@@ -8,6 +8,10 @@ import Hero from './components/Hero.jsx'
 import About from './components/About.jsx'
 import Facts from './components/Facts.jsx'
 import Skills from './components/Skills.jsx'
+import Resume from './components/Resume.jsx'
+import Portfolio from './components/Portfolio.jsx'
+import Services from './components/Services.jsx'
+import Testimonial from './components/Testimonial.jsx'
 
 function App() {
   
@@ -18,6 +22,10 @@ function App() {
       <About />
       <Facts />
       <Skills />
+      <Resume />
+      <Portfolio />
+      <Services />
+      <Testimonial />
     </>
   )
 }
